@@ -1,3 +1,11 @@
+> **QTAMP showcase fork** — this is [qtamp](https://qtamp.org)'s fork of
+> [0x5066/WinampModernPP](https://github.com/0x5066/WinampModernPP) by Eris Lund (0x5066),
+> used to showcase [qtWasabi](https://github.com/qtWasabi/qtWasabi), the
+> open-source reimplementation of the Wasabi/Maki Modern skin engine.
+> Only user-visible branding strings were changed (titlebar/tooltips now
+> read QTAMP); all art, code, and credit belong to the upstream authors.
+> License: MIT, unchanged from upstream.
+
 # Winamp Modern++
 
 This is a fork of the classic Winamp Modern that aims to update the base skin on a number of small things, such as weird visual blemishes, updating code where needed, etc.

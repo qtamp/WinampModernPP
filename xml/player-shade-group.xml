@@ -681,7 +681,7 @@
     image="shade.button.minimize"
     downImage="shade.button.minimize.pressed"
     hoverImage="shade.button.minimize.hover"
-    tooltip="Minimize WACUP"
+    tooltip="Minimize QTAMP"
   />
   <button
     id="shadeClose"
@@ -691,7 +691,7 @@
     image="shade.button.close"
     downImage="shade.button.close.pressed"
     hoverImage="shade.button.close.hover"
-    tooltip="Exit WACUP"
+    tooltip="Exit QTAMP"
   />
   <button
     id="shadeWinshade"

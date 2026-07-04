@@ -20,7 +20,7 @@
     padtitleright="25"
     shade="shade"
   />
-  <sendparams target="window.titlebar.title" default="WACUP"/>
+  <sendparams target="window.titlebar.title" default="QTAMP"/>
   <sendparams target="mousetrap" dblClickAction="SWITCH;shade"/>
   <sendparams target="window.top.left;window.top;window.top.right;window.left;window.right;window.bottom.left.top;window.bottom.left;window.bottom.left.bottom;window.bottom.top;window.bottom;window.bottom.bottom;window.bottom.right.top;window.bottom.right;window.bottom.right.bottom;" resize="0"/>
   <hideobject target="close;close.inactive"/>
@@ -36,7 +36,7 @@
   x="-41" y="4"
   relatx="1"
   image="wasabi.button.minimize.inactive"
-  tooltip="Minimize WACUP"
+  tooltip="Minimize QTAMP"
   activeAlpha="0"
 />
 <button
@@ -47,7 +47,7 @@
   image="wasabi.button.minimize"
   downImage="wasabi.button.minimize.pressed"
   hoverImage="wasabi.button.minimize.hover"
-  tooltip="Minimize WACUP"
+  tooltip="Minimize QTAMP"
   inactiveAlpha="0"
 />
 
@@ -88,7 +88,7 @@
   x="-17" y="4"
   relatx="1"
   image="wasabi.button.exit.inactive"
-  tooltip="Exit WACUP"
+  tooltip="Exit QTAMP"
   activeAlpha="0"
 />
 <button
@@ -99,7 +99,7 @@
   image="wasabi.button.exit"
   downImage="wasabi.button.exit.pressed"
   hoverImage="wasabi.button.exit.hover"
-  tooltip="Exit WACUP"
+  tooltip="Exit QTAMP"
   inactiveAlpha="0"
 />
 
